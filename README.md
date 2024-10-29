@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a passionate developer and DevOps enthusiast with expe
 
 ### 🤝 Let’s Connect!
 
-I’m always open to collaborations, knowledge-sharing, and connecting with like-minded individuals! Feel free to reach out or connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or check out my [portfolio](https://your-website.com).
+I’m always open to collaborations, knowledge-sharing, and connecting with like-minded individuals! Feel free to reach out or connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
 
 ---
 
