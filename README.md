@@ -4,29 +4,6 @@ Welcome to my GitHub! I'm a passionate developer and DevOps enthusiast with expe
 
 ---
 
-### 🌐 About Me
-
-- 🔹 **DevOps Aspirant** | Currently expanding my expertise in DevOps, aiming to integrate tools and techniques that automate, secure, and enhance software delivery.
-- 🔹 **AWS re/Start Scholar** | Gaining hands-on experience with AWS services and cloud fundamentals.
-- 🔹 **Cloud Enthusiast** | Recently created a cloud-hosted resume site and a chat web app using AWS services, including Lambda, DynamoDB, API Gateway, and S3, now showcased in my GitHub bio.
-
----
-
-### 💼 Professional Interests
-
-- **DevOps Fundamentals**: AWS, Linux, Jenkins, Ansible, GitOps, Docker, and Kubernetes
-- **Cloud Infrastructure**: Hands-on with AWS, particularly Lambda and DynamoDB
-- **CI/CD Pipelines**: Learning and implementing CI/CD practices for automated testing and deployments
-- **Automation & Scripting**: Building scripts to optimize workflows and improve efficiency
-
----
-
-### 🤝 Let’s Connect!
-
-I’m always open to collaborations, knowledge-sharing, and connecting with like-minded individuals! Feel free to reach out or connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
-
----
-
 ### 🔧 Tech Stack & Tools
 
 - **Languages**: Python, PHP, SQL, JavaScript
